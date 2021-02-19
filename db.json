@@ -1,18 +1,52 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "title": "Styles",
+      "author": "Harry",
+      "id": 2
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Lum",
+      "author": "Lotus",
+      "id": 3
+    },
+    {
+      "title": "plum123",
+      "author": "Plum",
+      "id": 4
+    },
+    {
+      "title": "123",
+      "author": "Peony",
+      "id": 5
+    },
+    {
+      "title": "456",
+      "author": "Peony",
+      "id": 6
+    },
+    {
+      "title": "Plummmm",
+      "author": "Peony",
+      "id": 8
+    },
+    {
+      "title": "yogurt",
+      "author": "Blueberry",
+      "id": 9
+    },
+    {
+      "title": "w",
+      "author": "Peony",
+      "id": 10
+    },
+    {
+      "title": "Lum",
+      "author": "Peony",
+      "id": 11
     }
   ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
